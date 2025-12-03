@@ -1,14 +1,5 @@
 {
   "latest_version": "1.3",
-  "release_notes": "
-    ## 📢 Update v1.3
-    
-    ### ✨ Penambahan Baru:
-    * Tahan Lama Tombol Pojok Kanan Atas = Screenshot
-    * Tahan Lama Tombol Pojok Kiri Atas = Munculkan Asisten AI
-    
-    ### 🛡️ Perbaikan Penting:
-    * FIX BUG WARNING/BANNED DETECTION (AMAN DARI PELANGGARAN 100%)
-  ",
+  "release_notes": "## 📢 Update v1.3\n\n### ✨ Fitur Baru\n- Tahan lama tombol pojok kanan atas → Screenshot\n- Tahan lama tombol pojok kiri atas → Membuka Asisten AI\n\n### 🛡️ Perbaikan\n- Perbaikan sistem pendeteksi pelanggaran (Warning/Banned) — kini lebih aman dan stabil\n",
   "apk_filename": "cbt_m22devx.apk"
 }
